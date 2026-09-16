@@ -1,2 +1,8 @@
-# talking-head-studio
-Web talking-head viewer with live behavior, face and model editing
+# Talking Head Studio
+
+Веб-просмотрщик говорящей головы.
+
+```bash
+npm install
+npm run dev
+```
